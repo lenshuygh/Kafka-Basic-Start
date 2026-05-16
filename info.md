@@ -15,6 +15,10 @@ webstore named **StreamStore**
 
 ### notes
 
+## UI / admin
+
+upon compose up Kafka UI can be found at localhost:8080
+
 ## compose
 
 ### environment variables
